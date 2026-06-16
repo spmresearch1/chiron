@@ -1,0 +1,31 @@
+        Program          Target         Modality    Therapeutic area    Discovery  IND-Enabling  Phase 1A  Phase 1B/2     Pivotal
+      Bexobrutideg       BTK            Degrader       B-cell malignancies
+       (NX-5948)
+     Zelebrudomide         BTK-IKZF     Degrader       B-cell malignancies
+       (NX-2127)
+        NX-1607             CBL-B     Inhibitor of       Immuno-oncology
+                                      degradation
+     BRAF degrader        Pan-mutant    Degrader           Solid tumors
+                             BRAF
+        Multiple         Undisclosed    Degrader           Undisclosed
+        Multiple         Undisclosed    Degrader           Undisclosed                                                    GILEAD
+        Multiple         Undisclosed      DAC              Undisclosed                                                    Pfizer
+
+20  Program             Target
+  Bexobrutideg       BTK
+   (NX-5948)
+          NX-0479 /     IRAK4
+    GS-6791
+    NX-3911          STAT6
+
+  Undisclosed        Undisclosed
+    Multiple         Undisclosed
+Modality         Therapeutic area    Discovery  IND-Enabling  Phase 1A  Phase 1B  Phase 2/3
+Degrader     Autoimmune cytopenia in
+                   CLL patients
+Degrader     Rheumatoid arthritis and                                             GILEAD
+           other inflammatory diseases
+Degrader       Type 2 inflammatory                                                sanofi
+                     diseases
+Degrader    Inflammation / autoimmune                                             sanofi
+  DAC       Inflammation / autoimmune

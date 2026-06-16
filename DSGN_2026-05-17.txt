@@ -1,0 +1,13 @@
+Gene        Monogenic disease                  Differentiated profile                                   Status
+
+Friedreich  FRATAXIN    GAA repeat expansion leads to      Restoration of endogenous frataxin with broad      RESTORE-FA MAD trial ongoing; 12-wk patient data expected
+Ataxia      (FXN)       reduced transcription              tissue distribution                                2H 2026
+
+FECD        TCF4        CTG repeat expansion causes        Allele-selective reduction of mutant transcript    Ph2 biomarker trial in patients ongoing; data expected 2H 2026
+                        corneal endothelial cell dysfunction (TCF4) with an eye drop
+
+DM1         DMPK        CTG repeat expansion causes        Allele-selective reduction of mutant DMPK leads    DT-818 patient dosing expected 1H 26
+                        nuclear foci & cellular dysfunction to foci resolution & splicing correction
+
+Huntington's HUNTINGTIN CAG repeat expansion leads to        Allele-selective reduction of mutant HTT           Next step:
+Disease     (HTT)       toxic mRNA & protein product                                                          Select DC

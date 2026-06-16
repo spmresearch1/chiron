@@ -1,0 +1,17 @@
+Program                      Disease(s)                                                         Research  IND-Enabling  Clinical   Approved   Partner
+CASGEVY¹                     SCD and TDT                                                                                              [------>]  VERTEX
+In Vivo HSC editing²         SCD, TDT, and others                                               [------>]
+Zugocabtagene geleucel       Autoimmune: SLE, SSc, IIM, ITP, WAIHA                                                       [------>]
+(Anti-CD19 allogeneic CAR-T) Oncology: B cell malignancies
+In Vivo CAR-T                Autoimmune and Oncology indications                                [------>]
+CTX310: ANGPTL3              sHTG, HeFH, HoFH, Mixed dyslipidemias                                                         [------>]
+CTX611: FXI                  Thromboembolic conditions                                                                     [------>]  Sirius
+CTX321: LPA                  ASCVD with elevated Lp(a)                                                     [------>]
+CTX340: AGT                  Refractory hypertension                                                       [------>]
+CTX460: SERPINA1             Alpha-1 Antitrypsin Disorder                                       [------>]
+CTX213                       Type I Diabetes Mellitus                                                      [------>]
+Licensed Programs: DMD, DM1, CF                                                                                            [------>]    VERTEX
+
+SCD: Severe sickle cell disease; TDT: Transfusion-dependent β-thalassemia; HeFH: Heterozygous familial hypercholesterolemia; HoFH: Homozygous familial hypercholesterolemia; sHTG: Severe hypertriglyceridemia; SLE: Systemic lupus erythematosus; IIM: Idiopathic inflammatory myopathies; ITP: Immune Thrombocytopenic Purpura; WAIHA: Warm Autoimmune Hemolytic Anemia; DMD: Duchenne's muscular dystrophy; DM1: Myotonic dystrophy type I; CF: Cystic Fibrosis; SSc: Systemic sclerosis; RegenMed: Regenerative Medicine
+1. Currently approved in some countries for certain eligible patients with SCD or TDT (40-60 cost / profit split)
+2. Collaboration with Vertex for applications in SCD and TDT (50-50 cost / profit split)

@@ -1,0 +1,41 @@
+TARGET / PLATFORM: anito-cel (ddBCMA)
+INDICATION: Relapsed / Refractory Multiple Myeloma
+STATUS: Phase 1, Phase 2, Phase 3, BLA
+OWNERSHIP: Partnered with Kite
+
+TARGET / PLATFORM: anito-cel (ddBCMA)
+INDICATION: Frontline Multiple Myeloma
+STATUS: Phase 2
+OWNERSHIP: Partnered with Kite
+
+TARGET / PLATFORM: anito-cel (ddBCMA)
+INDICATION: Autoimmune (gMG)
+STATUS: Phase 1
+OWNERSHIP: Wholly Owned
+
+TARGET / PLATFORM: ACLX-001 (BCMA) (ARC-SparX)
+INDICATION: Relapsed / Refractory Multiple Myeloma
+STATUS: Phase 1
+OWNERSHIP: Partnered with Kite*
+
+TARGET / PLATFORM: ACLX-002 (CD123) (ARC-SparX)
+INDICATION: AML / MDS
+STATUS: Phase 1
+OWNERSHIP: Wholly Owned
+
+TARGET / PLATFORM: ACLX-004 (CD33 and CD123) (ARC-SparX)
+INDICATION: AML
+STATUS: Preclinical (IND Cleared)
+OWNERSHIP: Wholly Owned
+
+TARGET / PLATFORM: Undisclosed (ddCAR)
+INDICATION: Solid Tumors (HCC)
+STATUS: Preclinical
+OWNERSHIP: Wholly Owned
+
+TARGET / PLATFORM: Undisclosed (ARC-SparX)
+INDICATION: Solid Tumors (SCLC)
+STATUS: Discovery
+OWNERSHIP: Wholly Owned
+
+* Kite exercised its option to negotiate a license for ACLX-001 and retains one remaining option for a select ARC-SparX program in multiple myeloma and lymphoma

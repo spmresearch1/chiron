@@ -1,0 +1,377 @@
+[
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05205070",
+        "orgStudyIdInfo": {
+          "id": "ANB030-201"
+        },
+        "organization": {
+          "fullName": "AnaptysBio, Inc.",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Study to Evaluate the Efficacy and Safety of Rosnilimab (ANB030) in Treatment of Subjects With Moderate-to-Severe Alopecia Areata",
+        "officialTitle": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Rosnilimab (ANB030) in the Treatment of Subjects With Alopecia Areata",
+        "acronym": "AZURE"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2022-05",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-12-22",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2023-01-19",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2023-03-19",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2022-01-11",
+        "studyFirstSubmitQcDate": "2022-01-11",
+        "studyFirstPostDateStruct": {
+          "date": "2022-01-24",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2022-05-05",
+        "lastUpdatePostDateStruct": {
+          "date": "2022-05-10",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "AnaptysBio, Inc.",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Efficacy and safety of rosnilimab (ANB030) in subjects with moderate-to-severe Alopecia Areata",
+        "detailedDescription": "This is a Phase 2, randomized, double-blind, placebo-controlled, parallel-group,multicenter study to evaluate the safety, tolerability, and efficacy of rosnilimab in subjects with alopecia areata (AA).This study also will evaluate the pharmacokinetics (PK) and pharmacodynamics (PD) of rosnilimab and evaluate the immunogenicity of rosnilimab in subjects with AA."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Alopecia Areata"
+        ],
+        "keywords": [
+          "PD-1 receptor",
+          "Rosnilimab"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "interventionModelDescription": "Double-blinded, Placebo controlled, 2:1 ratio of Investigational Product vs Placebo",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "QUADRUPLE",
+            "maskingDescription": "Double-blinded design",
+            "whoMasked": [
+              "PARTICIPANT",
+              "CARE_PROVIDER",
+              "INVESTIGATOR",
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 45,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Rosnilimab (ANB030)",
+            "type": "EXPERIMENTAL",
+            "description": "ANB030 biological humanized monoclonal antibody, SC injections every 4 weeks",
+            "interventionNames": [
+              "Biological: Rosnilimab"
+            ]
+          },
+          {
+            "label": "Placebo solution",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "Placebo solution, SC injections every 4 weeks",
+            "interventionNames": [
+              "Biological: Placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BIOLOGICAL",
+            "name": "Rosnilimab",
+            "description": "humanized monoclonal antibody",
+            "armGroupLabels": [
+              "Rosnilimab (ANB030)"
+            ],
+            "otherNames": [
+              "ANB030"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "Placebo",
+            "description": "Placebo solution",
+            "armGroupLabels": [
+              "Placebo solution"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change from baseline in Severity of Alopecia Tool (SALT) score at Week 24",
+            "timeFrame": "Week 24"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or nonpregnant, nonlactating female subject aged 18 to 75 years (inclusive) at the time of informed consent.\n* Subjects with a clinical diagnosis of AA defined as having a SALT score ≥ 50 and in which the current episode of hair loss is \\> 24 weeks (without evidence of spontaneous terminal hair regrowth ≥ 10% within 24 weeks at the time of screening and baseline), but ≤ 8 years (from onset of current episode).\n\nExclusion Criteria:\n\n* Concomitant active systemic diseases (except stable thyroid diseases) that may cause hair loss (eg, lupus erythematosus, systemic sclerosis, celiac disease) that could interfere with the Investigators' ability to evaluate the subject's response to therapy.\n* Subject's cause of hair loss is indeterminable and/or in addition to AA they have concomitant causes of alopecia, such as traction alopecia, cicatricial alopecia, lichen planopilaris, frontal fibrosing alopecia, advanced androgenetic alopecia (ie, Ludwig Type III or Norwood-Hamilton Stage ≥ V), telogen effluvium, trichotillomania, or diffuse AA (alopecia areata incognita).\n* Known or suspected congenital or acquired immunodeficiency state, or condition that would compromise the subject's immune status (eg, history of splenectomy).",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "AnaptysBio Inc.",
+            "role": "CONTACT",
+            "phone": "(858)362-6295",
+            "email": "clinicaltrialinfo@anaptysbio.com"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Bruce Randazzo, MD",
+            "affiliation": "AnaptysBio, Inc.",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "10-105",
+            "status": "RECRUITING",
+            "city": "Birmingham",
+            "state": "Alabama",
+            "zip": "35205",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.52066,
+              "lon": -86.80249
+            }
+          },
+          {
+            "facility": "Site10-103",
+            "status": "RECRUITING",
+            "city": "Encinitas",
+            "state": "California",
+            "zip": "92024",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.03699,
+              "lon": -117.29198
+            }
+          },
+          {
+            "facility": "Site 10-113",
+            "status": "RECRUITING",
+            "city": "Northridge",
+            "state": "California",
+            "zip": "91324",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.22834,
+              "lon": -118.53675
+            }
+          },
+          {
+            "facility": "Site 10-115",
+            "status": "RECRUITING",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60611",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.85003,
+              "lon": -87.65005
+            }
+          },
+          {
+            "facility": "10-104",
+            "status": "RECRUITING",
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "zip": "46250",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.76838,
+              "lon": -86.15804
+            }
+          },
+          {
+            "facility": "Site 10-109",
+            "status": "RECRUITING",
+            "city": "Plainfield",
+            "state": "Indiana",
+            "zip": "46168",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.70421,
+              "lon": -86.39944
+            }
+          },
+          {
+            "facility": "Site 10-116",
+            "status": "RECRUITING",
+            "city": "Louisville",
+            "state": "Kentucky",
+            "zip": "40241",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.25424,
+              "lon": -85.75941
+            }
+          },
+          {
+            "facility": "Site 10-117",
+            "status": "RECRUITING",
+            "city": "Clarkston",
+            "state": "Michigan",
+            "zip": "48346",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.73586,
+              "lon": -83.41883
+            }
+          },
+          {
+            "facility": "Site 10-111",
+            "status": "RECRUITING",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10029",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.71427,
+              "lon": -74.00597
+            }
+          },
+          {
+            "facility": "Site 10-101",
+            "status": "RECRUITING",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip": "28277",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.22709,
+              "lon": -80.84313
+            }
+          },
+          {
+            "facility": "Site 10-102",
+            "status": "RECRUITING",
+            "city": "Bexley",
+            "state": "Ohio",
+            "zip": "43208",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.96895,
+              "lon": -82.93768
+            }
+          },
+          {
+            "facility": "Site 10-106",
+            "status": "RECRUITING",
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "zip": "74136",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.15398,
+              "lon": -95.99277
+            }
+          },
+          {
+            "facility": "10-107",
+            "status": "RECRUITING",
+            "city": "Upper Saint Clair",
+            "state": "Pennsylvania",
+            "zip": "15241",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.3359,
+              "lon": -80.08339
+            }
+          },
+          {
+            "facility": "10-110",
+            "status": "RECRUITING",
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77056",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.76328,
+              "lon": -95.36327
+            }
+          },
+          {
+            "facility": "Site 10-108",
+            "status": "RECRUITING",
+            "city": "San Antonio",
+            "state": "Texas",
+            "zip": "78229",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.42412,
+              "lon": -98.49363
+            }
+          },
+          {
+            "facility": "Site 10-114",
+            "status": "RECRUITING",
+            "city": "Kenosha",
+            "state": "Wisconsin",
+            "zip": "53144",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.58474,
+              "lon": -87.82119
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    }
+  }
+]

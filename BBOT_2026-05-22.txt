@@ -1,0 +1,17 @@
+Program/Target          Mechanism of Action                                Status            Clinical Readouts
+
+BBO-8520                  First direct inhibitor of KRASG12C (ON)            Phase 1           KRASG12C NSCLC
+KRASG12C (ON/OFF)         Inhibits both KRASG12C GTP (active) and GDP        monotherapy and
+                          (inactive) states                                  PD-1 combination
+                          Differentiates from KRASG12C GDP (inactive)-only
+                          inhibitors
+
+BBO-11818                 Direct inhibitor of KRASG12X (ON/OFF)              Phase 1           KRASG12X NSCLC
+Pan-KRAS (ON/OFF)         Potent pan-KRAS inhibitor                                            KRASG12X PDAC
+                          Directly binds mutant KRAS                                         KRASG12X CRC
+
+BBO-10203                 Blocks specific interaction between RAS and PI3Kα  Phase 1           PIK3CAmut BC
+RAS:PI3Kα Breaker         RAS driver agnostic (KRAS, HRAS and NRAS)                            HER2amp BC
+                          Selectively blocks PI3K / AKT effector signaling                   KRASm NSCLC
+                          in the tumor                                                       KRASm PDAC
+                          Decreased risk for hyperglycemia / hyperinsulinemia                KRASm CRC

@@ -1,0 +1,1161 @@
+[
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06127043",
+        "orgStudyIdInfo": {
+          "id": "ANB030-204 ROSETTA"
+        },
+        "organization": {
+          "fullName": "AnaptysBio, Inc.",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Study of Efficacy and Safety of Rosnilimab in Subjects With Moderate to Severe Ulcerative Colitis (ROSETTA)",
+        "officialTitle": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Rosnilimab in Subjects With Moderate to Severe Ulcerative Colitis"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-09",
+        "overallStatus": "ACTIVE_NOT_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2023-12-04",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2026-01",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2026-05",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2023-11-07",
+        "studyFirstSubmitQcDate": "2023-11-07",
+        "studyFirstPostDateStruct": {
+          "date": "2023-11-13",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-09-30",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-10-03",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "AnaptysBio, Inc.",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "ROSETTA STUDY: This study will evaluate the safety, tolerability, and efficacy of Rosnilimab in subjects with moderate to severe ulcerative colitis (UC)",
+        "detailedDescription": "This is a Phase 2, randomized, double-blind, placebo-controlled, parallel-group, multicenter study to evaluate the efficacy, safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and immunogenicity of rosnilimab in subjects with moderate to severe ulcerative colitis (UC)."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Ulcerative Colitis"
+        ],
+        "keywords": [
+          "Rosnilimab",
+          "ANB030",
+          "PD-1 agonist",
+          "ROSETTA"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "QUADRUPLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "CARE_PROVIDER",
+              "INVESTIGATOR",
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 132,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Rosnilimab SC Dose 1",
+            "type": "EXPERIMENTAL",
+            "description": "This arm will receive High dose Rosnilimab SC",
+            "interventionNames": [
+              "Drug: Rosnilimab"
+            ]
+          },
+          {
+            "label": "Rosnilimab SC Dose 2",
+            "type": "EXPERIMENTAL",
+            "description": "This arm will receive low dose Rosnilimab SC",
+            "interventionNames": [
+              "Drug: Rosnilimab"
+            ]
+          },
+          {
+            "label": "Placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "This arm will receive Placebo SC",
+            "interventionNames": [
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Rosnilimab",
+            "description": "PD-1 agonist antibody",
+            "armGroupLabels": [
+              "Rosnilimab SC Dose 1",
+              "Rosnilimab SC Dose 2"
+            ],
+            "otherNames": [
+              "ANB030"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo",
+            "description": "Administered via SC",
+            "armGroupLabels": [
+              "Placebo"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Mean change in modified Mayo Score (mMs) from Baseline to Week 12",
+            "description": "The mMS is an endoscopic and clinical scale, which ranges in scores from 0-9, with higher numbers indicating increased disease severity. It is used to assess UC disease activity. It consists of three subscores: RBS, SFS and an endoscopy subscore.",
+            "timeFrame": "Baseline to Week 12"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Proportion of subjects achieving clinical remission at Week 12",
+            "description": "Defined as a mMS ≤ 2, with a stool frequency subscore (SFS) ≤ 1, RBS=0, and endoscopic subscore ≤ 1 without friability.",
+            "timeFrame": "Baseline to Week 12"
+          },
+          {
+            "measure": "Proportion of subjects showing endoscopic treatment improvement at Week 12",
+            "description": "Defined as an endoscopy subscore ≤ 1 without friability.",
+            "timeFrame": "Baseline to Week 12"
+          },
+          {
+            "measure": "Proportion of subjects achieving a clinical response at Week 12",
+            "description": "Defined as a decrease from Baseline in mMS ≥ 2 points and ≥ 30% with a decrease from Baseline in RBS ≥ 1 point or an absolute RBS ≤ 1.",
+            "timeFrame": "Baseline to Week 12"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female ≥18\n* Participants with a clinical diagnosis of UC for prior to Day 1\n* Subject has moderate to severe, active UC, defined as a mMS ≥ 5 with an endoscopy subscore ≥2\n* Subject has had a surveillance colonoscopy that did not detect potential dysplasia or colon cancer performed within 1 year of Day 1.\n* Subject has a history of an inadequate response, loss of response, or intolerance to any combination of at least 2 UC therapy classes defined as, but not limited to, aminosalicylates, corticosteroids, immunomodulators, calcineurin inhibitors, or advanced UC therapies (e.g., biologics, JAK inhibitors, oral S1P receptor modulators, etc.)\n\nExclusion Criteria:\n\n* Subject has a diagnosis of Crohn's disease or indeterminate colitis.\n* Subject has a diagnosis of fulminant colitis and/or toxic megacolon.\n* Subject has a history of an inadequate response, loss of response, or intolerance to any combination of 3 or more advanced UC therapy classes but not limited to, 1) anti-TNF antibodies (e.g., adalimumab, golimumab, infliximab), 2) other biologics (e.g., ustekinumab, vedolizumab), 3) oral JAK inhibitors (e.g., tofacitinib, upadacitinib), and 4) oral S1P receptor modulators (e.g., ozanimod).\n* Subject has disease limited to the rectum (ulcerative proctitis)\n* Subject has a history of colectomy (total or subtotal), ileoanal pouch, Kock pouch, or ileostomy or is planning bowel surgery.\n* The subject had prior exposure to a PD-1 or PD-L1 agonist, antagonist, or modulator.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Zurab Machaidze, MD",
+            "affiliation": "AnaptysBio, Inc.",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "AnaptysBio Investigational Site 10-115",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip": "85018",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.44838,
+              "lon": -112.07404
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-117",
+            "city": "Garden Grove",
+            "state": "California",
+            "zip": "92845",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.77391,
+              "lon": -117.94145
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-112",
+            "city": "Lancaster",
+            "state": "California",
+            "zip": "93534",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.69804,
+              "lon": -118.13674
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-129",
+            "city": "Lancaster",
+            "state": "California",
+            "zip": "93534",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.69804,
+              "lon": -118.13674
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-108",
+            "city": "San Jose",
+            "state": "California",
+            "zip": "95124",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.33939,
+              "lon": -121.89496
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-127",
+            "city": "Brooksville",
+            "state": "Florida",
+            "zip": "34601",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.55554,
+              "lon": -82.38991
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-106",
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33165",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 25.77427,
+              "lon": -80.19366
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-109",
+            "city": "Miami Gardens",
+            "state": "Florida",
+            "zip": "33014",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 25.94204,
+              "lon": -80.2456
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-131",
+            "city": "Orlando",
+            "state": "Florida",
+            "zip": "32789",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.53834,
+              "lon": -81.37924
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-123",
+            "city": "Orlando",
+            "state": "Florida",
+            "zip": "32822",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.53834,
+              "lon": -81.37924
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-125",
+            "city": "Tampa",
+            "state": "Florida",
+            "zip": "33607",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 27.94752,
+              "lon": -82.45843
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-122",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip": "30328",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.749,
+              "lon": -84.38798
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-124",
+            "city": "Oak Lawn",
+            "state": "Illinois",
+            "zip": "60453",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.71087,
+              "lon": -87.75811
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-118",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "zip": "89128",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.17497,
+              "lon": -115.13722
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-133",
+            "city": "Utica",
+            "state": "New York",
+            "zip": "13501",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.1009,
+              "lon": -75.23266
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-136",
+            "city": "Cincinnati",
+            "state": "Ohio",
+            "zip": "45201",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.12711,
+              "lon": -84.51439
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-120",
+            "city": "Norman",
+            "state": "Oklahoma",
+            "zip": "73017",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.22257,
+              "lon": -97.43948
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-103",
+            "city": "Kingsport",
+            "state": "Tennessee",
+            "zip": "37663",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.54843,
+              "lon": -82.56182
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-104",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75246",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-113",
+            "city": "Garland",
+            "state": "Texas",
+            "zip": "75044",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.91262,
+              "lon": -96.63888
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-135",
+            "city": "Georgetown",
+            "state": "Texas",
+            "zip": "78626",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.63269,
+              "lon": -97.67723
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-134",
+            "city": "Lubbock",
+            "state": "Texas",
+            "zip": "79382",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.57786,
+              "lon": -101.85517
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-130",
+            "city": "Southlake",
+            "state": "Texas",
+            "zip": "76092",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.94124,
+              "lon": -97.13418
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-132",
+            "city": "Tyler",
+            "state": "Texas",
+            "zip": "75701",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.35126,
+              "lon": -95.30106
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 10-107",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip": "98195",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 47.60621,
+              "lon": -122.33207
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 12-101",
+            "city": "Innsbruck",
+            "country": "Austria",
+            "geoPoint": {
+              "lat": 47.26266,
+              "lon": 11.39454
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 12-104",
+            "city": "Salzburg",
+            "country": "Austria",
+            "geoPoint": {
+              "lat": 47.79941,
+              "lon": 13.04399
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 12-103",
+            "city": "Sankt Pölten",
+            "country": "Austria",
+            "geoPoint": {
+              "lat": 48.20762,
+              "lon": 15.63725
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 12-102",
+            "city": "Vienna",
+            "country": "Austria",
+            "geoPoint": {
+              "lat": 48.20849,
+              "lon": 16.37208
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 61-102",
+            "city": "Sofia",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.69751,
+              "lon": 23.32415
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 11-102",
+            "city": "London",
+            "state": "Ontario",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 42.98339,
+              "lon": -81.23304
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 11-103",
+            "city": "Montreal",
+            "state": "Quebec",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.50884,
+              "lon": -73.58781
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 11-105",
+            "city": "Calgary",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 51.05011,
+              "lon": -114.08529
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 74-104",
+            "city": "Rijeka",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 45.32673,
+              "lon": 14.44241
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 74-101",
+            "city": "Zagreb",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 45.81444,
+              "lon": 15.97798
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 16-102",
+            "city": "Nantes",
+            "country": "France",
+            "geoPoint": {
+              "lat": 47.21725,
+              "lon": -1.55336
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 16-103",
+            "city": "Nantes",
+            "country": "France",
+            "geoPoint": {
+              "lat": 47.21725,
+              "lon": -1.55336
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 16-101",
+            "city": "Tours",
+            "country": "France",
+            "geoPoint": {
+              "lat": 47.39484,
+              "lon": 0.70398
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 59-101",
+            "city": "Tbilisi",
+            "state": "Georgia",
+            "zip": "0160",
+            "country": "Georgia",
+            "geoPoint": {
+              "lat": 41.69143,
+              "lon": 44.83412
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 59-106",
+            "city": "Tbilisi",
+            "zip": "0101",
+            "country": "Georgia",
+            "geoPoint": {
+              "lat": 41.69143,
+              "lon": 44.83412
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 59-103",
+            "city": "Tbilisi",
+            "zip": "0102",
+            "country": "Georgia",
+            "geoPoint": {
+              "lat": 41.69143,
+              "lon": 44.83412
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 59-102",
+            "city": "Tbilisi",
+            "zip": "0141",
+            "country": "Georgia",
+            "geoPoint": {
+              "lat": 41.69143,
+              "lon": 44.83412
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 59-104",
+            "city": "Tbilisi",
+            "zip": "0160",
+            "country": "Georgia",
+            "geoPoint": {
+              "lat": 41.69143,
+              "lon": 44.83412
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 59-105",
+            "city": "Tbilisi",
+            "zip": "0180",
+            "country": "Georgia",
+            "geoPoint": {
+              "lat": 41.69143,
+              "lon": 44.83412
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 17-107",
+            "city": "Berlin",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 52.52437,
+              "lon": 13.41053
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 17-106",
+            "city": "Brandenburg",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 50.69716,
+              "lon": 6.14466
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 17-105",
+            "city": "Dachau",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 48.26,
+              "lon": 11.43402
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 17-101",
+            "city": "Duisburg",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 51.43247,
+              "lon": 6.76516
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 17-110",
+            "city": "Erlangen",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 49.59099,
+              "lon": 11.00783
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 17-108",
+            "city": "Hamburg",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 53.55073,
+              "lon": 9.99302
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 17-103",
+            "city": "Kiel",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 54.32133,
+              "lon": 10.13489
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 17-109",
+            "city": "Ulm",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 48.39841,
+              "lon": 9.99155
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-112",
+            "city": "Bologna",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 44.49381,
+              "lon": 11.33875
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-111",
+            "city": "Cagliari",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 39.23054,
+              "lon": 9.11917
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-110",
+            "city": "Catania",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 37.49223,
+              "lon": 15.07041
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-108",
+            "city": "Legnano",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 45.59788,
+              "lon": 8.91506
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-105",
+            "city": "Milan",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 45.46427,
+              "lon": 9.18951
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-107",
+            "city": "Pavia",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 45.19205,
+              "lon": 9.15917
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-102",
+            "city": "Rozzano",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 45.38193,
+              "lon": 9.1559
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-109",
+            "city": "San Donato",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 45.08201,
+              "lon": 7.66485
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-104",
+            "city": "San Giovanni",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 37.73538,
+              "lon": 15.15887
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-113",
+            "city": "Turin",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 45.07049,
+              "lon": 7.68682
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 20-106",
+            "city": "Udine",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 46.0693,
+              "lon": 13.23715
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 21-101",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 52.37403,
+              "lon": 4.88969
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-108",
+            "city": "Bydgoszcz",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 53.1235,
+              "lon": 18.00762
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-106",
+            "city": "Częstochowa",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.79646,
+              "lon": 19.12409
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-112",
+            "city": "Elblag",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 54.1522,
+              "lon": 19.40884
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-102",
+            "city": "Katowice",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.2597,
+              "lon": 19.02173
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-115",
+            "city": "Katowice",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.2597,
+              "lon": 19.02173
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-111",
+            "city": "Krakow",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.06143,
+              "lon": 19.93658
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-123",
+            "city": "Krakow",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.06143,
+              "lon": 19.93658
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-103",
+            "city": "Lodz",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 51.77058,
+              "lon": 19.47395
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-119",
+            "city": "Lodz",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 51.77058,
+              "lon": 19.47395
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-114",
+            "city": "Lublin",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 51.25058,
+              "lon": 22.57009
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-104",
+            "city": "Poznan",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 52.40692,
+              "lon": 16.92993
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-117",
+            "city": "Poznan",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 52.40692,
+              "lon": 16.92993
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-120",
+            "city": "Poznan",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 52.40692,
+              "lon": 16.92993
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-116",
+            "city": "Rzeszów",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.04132,
+              "lon": 21.99901
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-113",
+            "city": "Sopot",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 54.4418,
+              "lon": 18.56003
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-110",
+            "city": "Torun",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 53.01375,
+              "lon": 18.59814
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-101",
+            "city": "Warsaw",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 52.22977,
+              "lon": 21.01178
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-107",
+            "city": "Warsaw",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 52.22977,
+              "lon": 21.01178
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-109",
+            "city": "Warsaw",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 52.22977,
+              "lon": 21.01178
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 30-101",
+            "city": "Bucharest",
+            "country": "Romania",
+            "geoPoint": {
+              "lat": 44.43225,
+              "lon": 26.10626
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 31-103",
+            "city": "Cluj-Napoca",
+            "country": "Romania",
+            "geoPoint": {
+              "lat": 46.76667,
+              "lon": 23.6
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 31-102",
+            "city": "Timișoara",
+            "country": "Romania",
+            "geoPoint": {
+              "lat": 45.75372,
+              "lon": 21.22571
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 58-101",
+            "city": "Belgrade",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.80401,
+              "lon": 20.46513
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 58-103",
+            "city": "Belgrade",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.80401,
+              "lon": 20.46513
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 58-104",
+            "city": "Belgrade",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.80401,
+              "lon": 20.46513
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 58-105",
+            "city": "Belgrade",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.80401,
+              "lon": 20.46513
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 58-102",
+            "city": "Zrenjanin",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 45.38361,
+              "lon": 20.38194
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 24-102",
+            "city": "Alicante",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 38.34517,
+              "lon": -0.48149
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 24-103",
+            "city": "Lleida",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 41.61674,
+              "lon": 0.62218
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 27-103",
+            "city": "Belfast",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 54.59682,
+              "lon": -5.92541
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 27-102",
+            "city": "Cambridge",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 52.2,
+              "lon": 0.11667
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 27-106",
+            "city": "Liverpool",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 53.41058,
+              "lon": -2.97794
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 27-101",
+            "city": "London",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 51.50853,
+              "lon": -0.12574
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 27-105",
+            "city": "Runcorn",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 53.34174,
+              "lon": -2.73124
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 27-107",
+            "city": "Shrewsbury",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 52.71009,
+              "lon": -2.75208
+            }
+          },
+          {
+            "facility": "AnaptysBio Investigational Site 27-104",
+            "city": "York",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 53.95763,
+              "lon": -1.08271
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+Trial/Regimen                                   Discovery Phase   IND-Enabling/Preclinical   Phase 1   Phase 2   Phase 3   Anticipated Milestones
+
+Avutometinib + Defactinib: Recurrent LGSOC
+RAMP 301¹                                                                                                         X         Complete enrollment in RAMP 301 by end of 2025
+RAF/MEK Clamp + FAKi vs ICT
+
+RAMP 201¹                                                                                              X                    PDUFA Action Date: June 30, 2025
+RAF/MEK Clamp + FAG
+
+Avutometinib ± Defactinib + Sotorasib (KRAS G12C Inhibitor): KRAS G12C NSCLC
+RAMP 203²                                                                                                 X         X                   An interim update is planned to be presented at a medical meeting in H2 2025
+RAF/MEK Clamp = FAKi
+KRAS G12Ci (sotorasib)
+Amgen Collaboration
+
+Avutometinib + Defactinib + Chemotherapy: 1L Metastatic Pancreatic Cancer
+RAMP 205                                                                                                  X         X                   Plan to present additional data at medical meeting in mid-year-2025
+RAF/MEK Clamp + FAKi +
+gemcitabine, nab-paclitaxel
+PanCAN Collaboration
+
+GenFleet Collaboration of RAS/MAPK-Pathway-Related Targeted Assets
+VS-7375/GFH375                                         X                 X                           X         X                   Filed U.S. IND in Q1 2025; Expect to initiate Phase 1/2a trial in U.S. in mid-2025
+KRAS G12D (ON/OFF)                                                                                                                  Updated data from Phase 1 study by GenFleet in China expected by H1 2025;
+inhibitor                                                                                                                           GenFleet initiated Phase 2 portion
+
+Undisclosed                                            X
+
+Undisclosed                                            X
+
+
+¹ FDA breakthrough therapy designation
+² FDA fast track designation
+RAMP 301 Study = NCT06072781
+RAMP 201 Study = NCT04625270
+RAMP 203 Study = NCT05074810
+RAMP 205 Study = NCT05669482

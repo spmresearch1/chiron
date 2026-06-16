@@ -1,0 +1,18 @@
+Compound                  Indication                   Preclinical               Phase 1                  Phase 2              Phase 3             Territory
+
+Obexelimab                IgG4-RD                                                                                                Phase 3 INDIGO trial primary endpoint and key secondary endpoints met  Global excluding JPN, SK, TWN, HK, SGP, AUS¹
+(CD19 and FcγRIIb          RMS                                                                                    Phase 2 MoonStone trial 12-week primary endpoint met
+bifunctional mAb)
+                          SLE                                                                                    Phase 2 SunStone trial enrolling
+
+Orelabrutinib             PPMS                                                                                                   Phase 3 trial initiated in Q3 2025                                     Global
+(BTK inhibitor)           SPMS                                                                                                   Phase 3 trial expected to initiate in Q1 2026
+
+ZB021                     I&I                          IND filing and Phase 1 trial initiation expected in 2024                                                                                  Global excluding China & SE Asia²
+(Oral IL-17AA/AF inhibitor)
+
+ZB022                     I&I                          IND filing and Phase 1 trial initiation expected in 2024                                                                                  Global
+(Brain-penetrant TYK2 inhibitor)
+
+¹ Bristol Myers Squibb & Co. holds exclusive development and commercialization rights for obexelimab in Japan, South Korea, Taiwan, Hong Kong, Singapore, Australia.
+² InnoCare territories

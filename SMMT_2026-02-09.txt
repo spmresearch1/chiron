@@ -1,0 +1,24 @@
+Product Pipeline
+
+Summit Sponsored Ivonescimab Trials
+
+Ivonescimab is currently being investigated in global Phase III clinical trials. Phase I and II trials were completed by or are ongoing with our partner Akeso. This pipeline reflects Phase III clinical trials that have been or are planned to be initiated by Summit in its Licensed Territory.
+
+Indication      Study         Treatment Population      Regimen
+NSCLC           HARMONi       2L+ EGFRm                 + Chemo vs. chemo
+                HARMONi-3     1L                        + Chemo vs. pembrolizumab (PD-1) + chemo
+                HARMONi-7     1L PD-L1 High             Monotherapy vs. pembrolizumab (PD-1)
+
+HARMONi study (NCT05184712) is a Phase III, multi-regional, potentially registration-enabling clinical trial, which enrolled patients in North America, Europe, and China. Patients enrolled in China were also enrolled as a part of the HARMONi-A study. We completed enrollment of patients in North America and Europe in October 2024. The two primary endpoints for this study are progression-free survival ("PFS") and overall survival ("OS"), and the study compares ivonescimab plus platinum-based doublet chemotherapy versus placebo plus platinum-based doublet chemotherapy in patients with advanced or metastatic EGFR-mutated NSCLC whose tumors have progressed following treatment with a third generation EGFR-TKI. We expect to disclose top-line results from HARMONi in mid-2025, depending upon maturation of the data per the protocol.
+
+The U.S. Food and Drug Administration ("FDA") has granted Fast Track designation for the proposed use of ivonescimab in combination with platinum-based chemotherapy for the treatment of adult patients with locally advanced or metastatic NSCLC with EGFR mutation, who have experienced disease progression following EGFR-TKI therapy.
+
+HARMONi-3 study (NCT05899608) is a Phase III, multi-regional, potentially registration-enabling clinical trial for which we initiated activating sites in North America and China during the fourth quarter of 2023 and later in Europe in 2024. The two primary endpoints for this study are PFS and OS, and the study compares ivonescimab plus platinum-based doublet chemotherapy versus pembrolizumab plus platinum-based doublet chemotherapy in first-line patients with metastatic squamous NSCLC and, based on changes made to the protocol in the fourth quarter of 2024, non-squamous NSCLC. Enrollment is ongoing in all regions for patients with squamous tumors; the protocol amendment is effective and enrollment has begun in United States in the fourth quarter of 2024 for patients with non-squamous tumors. The Company plans to enroll an estimated 1,080 patients.
+
+Based on the results of HARMONi-2, the Company has begun to activate clinical trial sites in the United States for HARMONi-7. HARMONi-7 is a multi-regional Phase III clinical trial that will compare ivonescimab monotherapy to pembrolizumab monotherapy in patients with metastatic squamous and non-squamous NSCLC whose tumors have high PD-L1 expression. The sample size for this study is currently planned to have an estimated 780 patients with two primary endpoints, PFS and OS.
+
+Summit is conducting its current clinical trials, and plans to design and conduct additional clinical trial activities for ivonescimab within its Licensed Territory, to support and submit relevant regulatory filings. We intend to explore further clinical development of ivonescimab in solid tumor settings outside of metastatic non-small cell lung cancer, our current area of focus in its Phase III clinical trials.
+
+In the fourth quarter of 2023, we began collaborating with multiple institutions globally and opened our investigator-sponsored trials program across several disease areas. We continued to expand this program in 2024 in order to discover additional opportunities for ivonescimab, including in several tumors outside of our current development plan.
+
+We plan to review the data generated from these clinical trials as a part of our consideration for advancing our clinical development pipeline for ivonescimab in the Licensed Territory.

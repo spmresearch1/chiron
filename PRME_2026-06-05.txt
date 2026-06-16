@@ -1,0 +1,21 @@
+Our pipeline includes wholly owned in vivo programs targeting liver genetic diseases - Wilson Disease, AATD - as well as early-stage discovery efforts in CF. In addition, our PM359 program in chronic granulomatous disease serves as a validation of Prime Editing in humans and we plan to submit a BLA following final regulatory alignment. We also have a collaboration with BMS to apply Prime Editing to ex vivo T-cell engineering for oncology and immunology indications.
+
+PM359 for Chronic Granulomatous Disease
+- Phase 1/2 clinical study has demonstrated restoration of NADPH oxidase activity.
+- Discussions are underway with the FDA to explore a potential accelerated path to approval.
+
+PM577 for Wilson Disease
+- In vivo Prime Editing candidate designed to correct the H1069Q mutation.
+- Plan to submit an IND/CTA in 1H 2026.
+
+Follow-on Wilson Editors (R778L and other variants)
+- Candidates designed to correct R778 variants and others.
+- Leverages the same LNP and editor architecture as PM577.
+
+PM647 for AATD
+- Designed to correct the Z-AAT mutation in hepatocytes via in vivo Prime Editing.
+- Expect to submit an IND/CTA in mid-2026.
+
+Cystic Fibrosis Program
+- Evaluating Prime Editing strategies to correct CFTR mutations through in vivo delivery to airway epithelial cells.
+- Currently in the lead optimization phase.

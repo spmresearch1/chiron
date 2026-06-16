@@ -1,0 +1,440 @@
+Ticker,Name,Last Price,Market Cap,Trading Region,Industry,Total Revenues (LTM)
+ABBV,AbbVie Inc.,221.6530,391614.93,United States and Canada,Biotechnology,62819.00
+AMGN,Amgen Inc.,347.8610,187743.46,United States and Canada,Biotechnology,37220.00
+GILD,Gilead Sciences Inc.,126.3810,156910.84,United States and Canada,Biotechnology,29736.00
+VRTX,Vertex Pharmaceuticals Incorporated,451.8890,114691.88,United States and Canada,Biotechnology,12218.00
+REGN,Regeneron Pharmaceuticals Inc.,614.1680,62484.86,United States and Canada,Biotechnology,14919.60
+ARGX,argenx SE,761.2000,54871.14,Europe,Biotechnology,4742.47
+ALNY,Alnylam Pharmaceuticals Inc.,282.0810,37661.36,United States and Canada,Biotechnology,4286.92
+RVMD,Revolution Medicines Inc.,157.1100,33401.03,United States and Canada,Biotechnology,
+NTRA,Natera Inc.,221.2400,31684.97,United States and Canada,Biotechnology,2500.93
+ONC,BeOne Medicines AG,264.3250,29386.07,United States and Canada,Biotechnology,5739.19
+BIIB,Biogen Inc.,196.0800,28948.69,United States and Canada,Biotechnology,9937.40
+UTHR,United Therapeutics Corporation,551.6750,23416.80,United States and Canada,Biotechnology,3169.80
+BNTX,BioNTech SE,90.5370,22895.38,United States and Canada,Biotechnology,3242.26
+MRNA,Moderna Inc.,56.1280,22270.82,United States and Canada,Biotechnology,2225.00
+ROIV,Roivant Sciences Ltd.,30.2670,21770.16,United States and Canada,Biotechnology,8.26
+INSM,Insmed Incorporated,95.7190,20747.33,United States and Canada,Biotechnology,819.56
+INCY,Incyte Corporation,100.1120,20000.59,United States and Canada,Biotechnology,5361.02
+SOBI,Swedish Orphan Biovitrum AB (publ),435.0000,15996.78,Europe,Biotechnology,3058.34
+NBIX,Neurocrine Biosciences Inc.,155.9210,15677.85,United States and Canada,Biotechnology,3102.40
+GMAB,Genmab A/S,1594.0000,15167.84,Europe,Biotechnology,3901.00
+ASND,Ascendis Pharma A/S,230.8770,14340.14,United States and Canada,Biotechnology,1000.67
+EXEL,Exelixis Inc.,52.3310,13153.66,United States and Canada,Biotechnology,2375.49
+BBIO,BridgeBio Pharma Inc.,67.0260,13127.80,United States and Canada,Biotechnology,579.96
+IONS,Ionis Pharmaceuticals Inc.,73.1900,12095.57,United States and Canada,Biotechnology,1058.19
+MDGL,Madrigal Pharmaceuticals Inc.,503.9010,11617.77,United States and Canada,Biotechnology,1132.49
+SMMT,Summit Therapeutics Inc.,13.9830,10853.08,United States and Canada,Biotechnology,
+ARWR,Arrowhead Pharmaceuticals Inc.,76.8180,10820.35,United States and Canada,Biotechnology,622.01
+BMRN,BioMarin Pharmaceutical Inc.,55.4520,10718.01,United States and Canada,Biotechnology,3242.32
+CYTK,Cytokinetics Incorporated,76.5170,10388.76,United States and Canada,Biotechnology,105.81
+NUVL,Nuvalent Inc.,123.3310,9742.89,United States and Canada,Biotechnology,
+KRYS,Krystal Biotech Inc.,324.0000,9551.44,United States and Canada,Biotechnology,417.30
+HALO,Halozyme Therapeutics Inc.,69.6070,8256.30,United States and Canada,Biotechnology,1508.46
+ABVX,ABIVAX Société Anonyme,85.1000,7861.37,Europe,Biotechnology,5.69
+SYRE,Spyre Therapeutics Inc.,84.0520,7299.18,United States and Canada,Biotechnology,
+ALKS,Alkermes plc,43.6820,7280.73,United States and Canada,Biotechnology,1562.30
+PRAX,Praxis Precision Medicines Inc.,259.5170,7235.02,United States and Canada,Biotechnology,
+PCVX,Vaxcyte Inc.,50.0890,7232.74,United States and Canada,Biotechnology,
+KYMR,Kymera Therapeutics Inc.,87.7950,7221.80,United States and Canada,Biotechnology,51.48
+TGTX,TG Therapeutics Inc.,50.6340,7176.00,United States and Canada,Biotechnology,700.35
+PTGX,Protagonist Therapeutics Inc.,110.3550,7097.08,United States and Canada,Biotechnology,74.06
+IBRX,ImmunityBio Inc.,6.7760,7096.87,United States and Canada,Biotechnology,140.98
+IMVT,Immunovant Inc.,33.5120,6880.31,United States and Canada,Biotechnology,
+GRF,Grifols S.A.,9.0880,6439.69,Europe,Biotechnology,8596.86
+APGE,Apogee Therapeutics Inc.,84.8890,6362.26,United States and Canada,Biotechnology,
+MIRM,Mirum Pharmaceuticals Inc.,102.0630,6223.93,United States and Canada,Biotechnology,569.61
+LEGN,Legend Biotech Corporation,33.3600,6196.28,United States and Canada,Biotechnology,1139.00
+RYTM,Rhythm Pharmaceuticals Inc.,90.3150,6189.52,United States and Canada,Biotechnology,217.16
+CNTA,Centessa Pharmaceuticals plc,39.7650,6152.80,United States and Canada,Biotechnology,0.00
+PTCT,PTC Therapeutics Inc.,73.7830,6120.25,United States and Canada,Biotechnology,827.11
+COGT,Cogent Biosciences Inc.,33.4610,5718.88,United States and Canada,Biotechnology,
+SRRK,Scholar Rock Holding Corporation,45.3650,5436.01,United States and Canada,Biotechnology,
+TWST,Twist Bioscience Corporation,85.3800,5316.72,United States and Canada,Biotechnology,409.48
+CGON,CG Oncology Inc.,59.9090,5284.12,United States and Canada,Biotechnology,5.07
+CAI,Caris Life Sciences Inc.,18.2560,5160.62,United States and Canada,Biotechnology,907.29
+CRSP,CRISPR Therapeutics AG,52.5580,5069.16,United States and Canada,Biotechnology,4.10
+XENE,Xenon Pharmaceuticals Inc.,52.3200,5057.54,United States and Canada,Biotechnology,0.00
+TVTX,Travere Therapeutics Inc.,53.6550,4989.53,United States and Canada,Biotechnology,536.20
+TNGX,Tango Therapeutics Inc.,32.6460,4722.18,United States and Canada,Biotechnology,56.99
+CELC,Celcuity Inc.,88.7600,4328.50,United States and Canada,Biotechnology,
+DNTH,Dianthus Therapeutics Inc.,79.0570,4321.75,United States and Canada,Biotechnology,1.34
+ERAS,Erasca Inc.,13.5600,4216.95,United States and Canada,Biotechnology,
+ORKA,Oruka Therapeutics Inc.,68.3780,4124.02,United States and Canada,Biotechnology,
+VCYT,Veracyte Inc.,51.1550,4081.79,United States and Canada,Biotechnology,541.74
+KNSA,Kiniksa Pharmaceuticals International plc,51.6990,3977.62,United States and Canada,Biotechnology,754.04
+CPRX,Catalyst Pharmaceuticals Inc.,31.3650,3838.48,United States and Canada,Biotechnology,596.96
+ACAD,ACADIA Pharmaceuticals Inc.,20.9900,3594.24,United States and Canada,Biotechnology,1095.25
+NAMS,NewAmsterdam Pharma Company N.V.,30.3990,3553.76,United States and Canada,Biotechnology,22.57
+DNLI,Denali Therapeutics Inc.,22.1960,3522.72,United States and Canada,Biotechnology,
+VKTX,Viking Therapeutics Inc.,29.9900,3482.01,United States and Canada,Biotechnology,
+ZEAL,Zealand Pharma A/S,306.0000,3331.30,Europe,Biotechnology,1429.74
+RLAY,Relay Therapeutics Inc.,15.1060,3292.21,United States and Canada,Biotechnology,10.68
+ARQT,Arcutis Biotherapeutics Inc.,25.6000,3202.13,United States and Canada,Biotechnology,415.62
+BEAM,Beam Therapeutics Inc.,31.4800,3133.41,United States and Canada,Biotechnology,164.01
+DYN,Dyne Therapeutics Inc.,18.2070,3009.87,United States and Canada,Biotechnology,
+RCUS,Arcus Biosciences Inc.,23.6780,2978.06,United States and Canada,Biotechnology,236.00
+BIOAB,BioArctic AB (publ),295.8000,2790.48,Europe,Biotechnology,121.15
+IDYA,IDEAYA Biosciences Inc.,30.7280,2699.79,United States and Canada,Biotechnology,225.27
+IRON,Disc Medicine Inc.,70.0550,2676.04,United States and Canada,Biotechnology,
+GRAL,GRAIL Inc.,59.4520,2551.48,United States and Canada,Biotechnology,156.12
+CLDX,Celldex Therapeutics Inc.,32.2410,2530.66,United States and Canada,Biotechnology,0.86
+RARE,Ultragenyx Pharmaceutical Inc.,25.0990,2464.45,United States and Canada,Biotechnology,670.00
+VERA,Vera Therapeutics Inc.,33.8150,2427.34,United States and Canada,Biotechnology,
+KLRA,Kailera Therapeutics Inc.,18.6530,2416.26,United States and Canada,Biotechnology,
+ETNB,89bio Inc.,14.8400,2308.62,United States and Canada,Biotechnology,
+BCRX,BioCryst Pharmaceuticals Inc.,8.9350,2270.94,United States and Canada,Biotechnology,885.72
+BAVA,Bavarian Nordic A/S,182.6000,2164.75,Europe,Biotechnology,921.39
+KOD,Kodiak Sciences Inc.,33.5250,2093.30,United States and Canada,Biotechnology,
+AUPH,Aurinia Pharmaceuticals Inc.,16.2550,2090.42,United States and Canada,Biotechnology,298.30
+NTLA,Intellia Therapeutics Inc.,14.7360,2058.95,United States and Canada,Biotechnology,66.09
+IMNM,Immunome Inc.,18.1200,2052.10,United States and Canada,Biotechnology,4.01
+ADMA,ADMA Biologics Inc.,8.7640,2031.26,United States and Canada,Biotechnology,509.86
+ZLAB,Zai Lab Limited,17.7900,1998.79,United States and Canada,Biotechnology,453.28
+VCEL,Vericel Corporation,38.8950,1986.30,United States and Canada,Biotechnology,292.09
+MLYS,Mineralys Therapeutics Inc.,24.0180,1981.44,United States and Canada,Biotechnology,
+GNS,Genus plc,21.7800,1954.31,Europe,Biotechnology,905.87
+AGIO,Agios Pharmaceuticals Inc.,32.2470,1917.78,United States and Canada,Biotechnology,66.05
+LKFT,Lakefront Biotherapeutics NV,25.0800,1915.73,Europe,Biotechnology,1206.37
+NANO,Nanobiotix S.A.,31.8400,1871.72,Europe,Biotechnology,38.29
+BHVN,Biohaven Ltd.,12.1800,1833.83,United States and Canada,Biotechnology,
+STOK,Stoke Therapeutics Inc.,29.2660,1822.73,United States and Canada,Biotechnology,32.08
+NRIX,Nurix Therapeutics Inc.,17.3450,1793.57,United States and Canada,Biotechnology,71.78
+VRDN,Viridian Therapeutics Inc.,16.0650,1774.02,United States and Canada,Biotechnology,70.92
+IOVA,Iovance Biotherapeutics Inc.,3.9350,1756.99,United States and Canada,Biotechnology,285.61
+RXRX,Recursion Pharmaceuticals Inc.,3.2950,1748.86,United States and Canada,Biotechnology,66.41
+QURE,uniQure N.V.,27.4300,1729.94,United States and Canada,Biotechnology,18.09
+ANAB,AnaptysBio Inc.,58.6300,1706.19,United States and Canada,Biotechnology,232.39
+PGEN,Precigen Inc.,4.7710,1700.91,United States and Canada,Biotechnology,31.59
+TYRA,Tyra Biosciences Inc.,28.4300,1690.74,United States and Canada,Biotechnology,
+GENB,Generate Biomedicines Inc.,13.1680,1688.04,United States and Canada,Biotechnology,30.30
+SRPT,Sarepta Therapeutics Inc.,15.9250,1681.30,United States and Canada,Biotechnology,2184.18
+TSHA,Taysha Gene Therapies Inc.,5.8050,1668.13,United States and Canada,Biotechnology,7.47
+ZYME,Zymeworks Inc.,22.4330,1638.13,United States and Canada,Biotechnology,81.26
+SNDX,Syndax Pharmaceuticals Inc.,18.4480,1634.68,United States and Canada,Biotechnology,217.17
+PVLA,Palvella Therapeutics Inc.,111.1280,1593.89,United States and Canada,Biotechnology,
+SION,Sionna Therapeutics Inc.,34.6410,1564.05,United States and Canada,Biotechnology,
+CMPS,COMPASS Pathways plc,11.5590,1559.88,United States and Canada,Biotechnology,
+NVAX,Novavax Inc.,9.4550,1554.76,United States and Canada,Biotechnology,596.34
+URGN,UroGen Pharma Ltd.,31.6410,1541.60,United States and Canada,Biotechnology,140.49
+BONEX,Bonesupport Holding AB (publ),219.8000,1539.24,Europe,Biotechnology,128.34
+CAPR,Capricor Therapeutics Inc.,26.1400,1513.82,United States and Canada,Biotechnology,
+GLUE,Monte Rosa Therapeutics Inc.,17.8040,1504.07,United States and Canada,Biotechnology,42.95
+IDIA,Idorsia Ltd,4.6520,1492.59,Europe,Biotechnology,274.02
+VIR,Vir Biotechnology Inc.,8.6450,1458.00,United States and Canada,Biotechnology,65.50
+BCAX,Bicara Therapeutics Inc.,22.1090,1452.65,United States and Canada,Biotechnology,
+IMCR,Immunocore Holdings plc,28.2390,1436.39,United States and Canada,Biotechnology,412.81
+ARDX,Ardelyx Inc.,5.7750,1426.59,United States and Canada,Biotechnology,427.68
+MLTX,MoonLake Immunotherapeutics,19.3100,1421.51,United States and Canada,Biotechnology,
+SLS,SELLAS Life Sciences Group Inc.,7.5850,1411.06,United States and Canada,Biotechnology,
+AVBP,ArriVent BioPharma Inc.,30.2220,1407.59,United States and Canada,Biotechnology,
+VITR,Vitrolife AB (publ),95.9000,1380.93,Europe,Biotechnology,359.62
+INBX,Inhibrx Biosciences Inc.,93.8650,1377.11,United States and Canada,Biotechnology,1.30
+PHM,Pharma Mar S.A.,68.3000,1374.41,Europe,Biotechnology,260.55
+SVRA,Savara Inc.,5.2950,1342.81,United States and Canada,Biotechnology,
+BIOGB,BioGaia AB (publ),121.7000,1309.09,Europe,Biotechnology,163.12
+AKTS,Aktis Oncology Inc.,23.2010,1282.49,United States and Canada,Biotechnology,8.28
+IMTX,Immatics N.V.,9.2150,1259.44,United States and Canada,Biotechnology,43.11
+DMRA,Damora Therapeutics Inc.,20.2610,1247.13,United States and Canada,Biotechnology,
+MPLT,MapLight Therapeutics Inc.,27.1450,1230.91,United States and Canada,Biotechnology,
+CDNA,CareDx Inc.,23.4950,1213.74,United States and Canada,Biotechnology,412.82
+ALVO,Alvotech,3.8650,1206.47,United States and Canada,Biotechnology,562.04
+MNKD,MannKind Corporation,3.8850,1200.27,United States and Canada,Biotechnology,360.78
+ZBIO,Zenas BioPharma Inc.,18.3180,1156.48,United States and Canada,Biotechnology,0.00
+COAG,Hemab Therapeutics Holdings Inc.,25.3750,1121.40,United States and Canada,Biotechnology,
+ABSI,Absci Corporation,7.1850,1120.18,United States and Canada,Biotechnology,1.84
+DBV,DBV Technologies S.A.,3.1880,1093.51,Europe,Biotechnology,5.74
+PHIL,Philogen S.p.A.,23.0000,1073.92,Europe,Biotechnology,375.62
+KURN,Kuros Biosciences AG,20.6000,1022.09,Europe,Biotechnology,146.06
+CRVS,Corvus Pharmaceuticals Inc.,11.9000,1000.68,United States and Canada,Biotechnology,
+OXB,Oxford Biomedica plc,6.0400,979.27,Europe,Biotechnology,227.47
+SPRY,ARS Pharmaceuticals Inc.,9.8470,977.84,United States and Canada,Biotechnology,98.99
+JBIO,Jade Biosciences Inc.,15.8100,938.48,United States and Canada,Biotechnology,
+XNCR,Xencor Inc.,12.2920,911.35,United States and Canada,Biotechnology,97.36
+PHARM,Pharming Group N.V.,1.1100,908.71,Europe,Biotechnology,369.49
+MGTX,MeiraGTx Holdings plc,9.7450,902.48,United States and Canada,Biotechnology,79.76
+ORIC,ORIC Pharmaceuticals Inc.,8.4220,871.82,United States and Canada,Biotechnology,
+ABUS,Arbutus Biopharma Corporation,4.3450,858.30,United States and Canada,Biotechnology,191.44
+SANA,Sana Biotechnology Inc.,2.8450,853.21,United States and Canada,Biotechnology,
+ODTX,Odyssey Therapeutics Inc.,17.9850,848.43,United States and Canada,Biotechnology,2.98
+JANX,Janux Therapeutics Inc.,13.7200,836.71,United States and Canada,Biotechnology,13.73
+KURA,Kura Oncology Inc.,9.4250,836.70,United States and Canada,Biotechnology,71.64
+CGEM,Cullinan Therapeutics Inc.,13.3740,821.94,United States and Canada,Biotechnology,
+OLMA,Olema Pharmaceuticals Inc.,9.3420,816.00,United States and Canada,Biotechnology,
+IVA,Inventiva S.A.,3.2700,787.30,Europe,Biotechnology,7.94
+ZSQR,Z Squared Inc.,15.0900,777.13,United States and Canada,Biotechnology,
+BSLN,Basilea Pharmaceutica AG,49.8000,776.60,Europe,Biotechnology,293.34
+VOR,Vor Biopharma Inc.,14.0280,760.12,United States and Canada,Biotechnology,
+GERN,Geron Corporation,1.1750,753.79,United States and Canada,Biotechnology,196.12
+AVTX,Avalo Therapeutics Inc.,14.2960,751.48,United States and Canada,Biotechnology,0.06
+ANNX,Annexon Inc.,4.5180,740.24,United States and Canada,Biotechnology,
+BIO0,Biotest GmbH & Co. KGaA,32.0000,732.97,Europe,Biotechnology,762.34
+EVMN,Evommune Inc.,20.2700,730.09,United States and Canada,Biotechnology,10.00
+REPL,Replimune Group Inc.,8.8060,727.13,United States and Canada,Biotechnology,
+NNNN,Anbio Biotechnology,16.5000,724.20,United States and Canada,Biotechnology,8.65
+SLDB,Solid Biosciences Inc.,7.1350,702.44,United States and Canada,Biotechnology,
+AURA,Aura Biosciences Inc.,6.2640,690.92,United States and Canada,Biotechnology,
+DSGN,Design Therapeutics Inc.,10.6950,667.98,United States and Canada,Biotechnology,
+TENX,Tenax Therapeutics Inc.,11.3100,665.91,United States and Canada,Biotechnology,
+ALLO,Allogene Therapeutics Inc.,1.9250,664.42,United States and Canada,Biotechnology,
+CTMX,CytomX Therapeutics Inc.,2.9850,649.84,United States and Canada,Biotechnology,35.54
+BBOT,BridgeBio Oncology Therapeutics Inc.,7.7750,622.83,United States and Canada,Biotechnology,
+IRWD,Ironwood Pharmaceuticals Inc.,3.7250,613.18,United States and Canada,Biotechnology,361.51
+IMMX,Immix Biopharma Inc.,8.7230,608.78,United States and Canada,Biotechnology,
+RIGL,Rigel Pharmaceuticals Inc.,32.5400,602.06,United States and Canada,Biotechnology,299.77
+CBIO,Crescent Biopharma Inc.,17.8850,594.30,United States and Canada,Biotechnology,11.88
+TRAX,First Tracks Biotherapeutics Inc.,16.8930,589.44,United States and Canada,Biotechnology,
+CADL,Candel Therapeutics Inc.,8.0310,588.43,United States and Canada,Biotechnology,
+DRUG,Bright Minds Biosciences Inc.,83.4000,584.79,United States and Canada,Biotechnology,
+ACHV,Achieve Life Sciences Inc.,5.5490,569.66,United States and Canada,Biotechnology,
+TECX,Tectonic Therapeutic Inc.,29.7460,561.28,United States and Canada,Biotechnology,
+GNFT,Genfit S.A.,9.6900,559.31,Europe,Biotechnology,76.87
+MDXG,MiMedx Group Inc.,3.7050,551.84,United States and Canada,Biotechnology,389.42
+GYRE,Gyre Therapeutics Inc.,5.8630,535.71,United States and Canada,Biotechnology,117.05
+PRME,Prime Medicine Inc.,2.9250,528.31,United States and Canada,Biotechnology,4.03
+XOMA,XOMA Royalty Corporation,41.9640,526.27,United States and Canada,Biotechnology,48.55
+CLYM,Climb Bio Inc.,10.8440,518.00,United States and Canada,Biotechnology,
+PROK,ProKidney Corp.,1.7040,514.71,United States and Canada,Biotechnology,0.89
+ALT,Altimmune Inc.,2.6350,512.44,United States and Canada,Biotechnology,0.04
+VLA,Valneva SE,2.2920,503.85,Europe,Biotechnology,180.69
+RZLT,Rezolute Inc.,4.7550,496.74,United States and Canada,Biotechnology,
+EIKN,Eikon Therapeutics Inc.,9.1630,496.07,United States and Canada,Biotechnology,
+STRO,Sutro Biopharma Inc.,28.9210,479.23,United States and Canada,Biotechnology,99.61
+KYTX,Kyverna Therapeutics Inc.,7.9000,478.19,United States and Canada,Biotechnology,
+NGNE,Neurogene Inc.,29.6780,468.97,United States and Canada,Biotechnology,
+FDMT,4D Molecular Therapeutics Inc.,8.8900,464.74,United States and Canada,Biotechnology,88.24
+CABA,Cabaletta Bio Inc.,2.8350,462.26,United States and Canada,Biotechnology,
+ASMB,Assembly Biosciences Inc.,23.3000,461.74,United States and Canada,Biotechnology,71.10
+AVCT,Avacta Group Plc,0.7100,445.83,Europe,Biotechnology,0.15
+OVID,Ovid Therapeutics Inc.,2.3450,437.67,United States and Canada,Biotechnology,7.12
+ARTV,Artiva Biotherapeutics Inc.,9.0060,437.59,United States and Canada,Biotechnology,
+PRTA,Prothena Corporation plc,8.3220,435.68,United States and Canada,Biotechnology,57.94
+PRTC,PureTech Health plc,1.3120,428.21,Europe,Biotechnology,4.66
+MNPR,Monopar Therapeutics Inc.,63.1300,422.89,United States and Canada,Biotechnology,
+CCCC,C4 Therapeutics Inc.,3.7950,419.60,United States and Canada,Biotechnology,34.86
+FBRX,Forte Biosciences Inc.,17.0760,417.26,United States and Canada,Biotechnology,
+PRLD,Prelude Therapeutics Incorporated,4.1890,415.45,United States and Canada,Biotechnology,16.72
+VTVT,vTv Therapeutics Inc.,33.3260,413.56,United States and Canada,Biotechnology,36.84
+EBS,Emergent BioSolutions Inc.,7.9700,411.22,United States and Canada,Biotechnology,676.80
+FYB,Formycon AG,20.0000,409.71,Europe,Biotechnology,60.42
+ANL,Adlai Nortye Ltd.,10.2310,409.24,United States and Canada,Biotechnology,5.00
+IPSC,Century Therapeutics Inc.,2.2350,403.09,United States and Canada,Biotechnology,0.00
+INDP,Indaptus Therapeutics Inc.,3.5500,402.01,United States and Canada,Biotechnology,
+MYGN,Myriad Genetics Inc.,4.2450,400.93,United States and Canada,Biotechnology,829.00
+EPRX,Eupraxia Pharmaceuticals Inc.,8.5600,399.61,United States and Canada,Biotechnology,
+AUTL,Autolus Therapeutics plc,1.4950,397.88,United States and Canada,Biotechnology,92.62
+OCGN,Ocugen Inc.,1.1750,397.76,United States and Canada,Biotechnology,4.46
+SGMT,Sagimet Biosciences Inc.,6.3360,391.26,United States and Canada,Biotechnology,
+CYDY,CytoDyn Inc.,0.2800,391.12,United States and Canada,Biotechnology,
+BNTC,Benitec Biopharma Inc.,11.2490,386.45,United States and Canada,Biotechnology,
+XFOR,X4 Pharmaceuticals Inc.,4.0100,378.22,United States and Canada,Biotechnology,9.01
+LXEO,Lexeo Therapeutics Inc.,4.7350,371.80,United States and Canada,Biotechnology,
+EDIT,Editas Medicine Inc.,2.3940,367.39,United States and Canada,Biotechnology,38.69
+RGNX,REGENXBIO Inc.,7.0350,363.69,United States and Canada,Biotechnology,87.82
+GLSI,Greenwich LifeSciences Inc.,24.6550,361.89,United States and Canada,Biotechnology,
+PBYI,Puma Biotechnology Inc.,7.1040,361.59,United States and Canada,Biotechnology,227.18
+HNSA,Hansa Biopharma AB (publ),33.2600,359.89,Europe,Biotechnology,20.12
+LRMR,Larimar Therapeutics Inc.,3.4250,357.51,United States and Canada,Biotechnology,
+CMPX,Compass Therapeutics Inc.,1.9850,357.47,United States and Canada,Biotechnology,
+VSTM,Verastem Inc.,4.0150,352.81,United States and Canada,Biotechnology,49.59
+ENTA,Enanta Pharmaceuticals Inc.,12.0010,348.97,United States and Canada,Biotechnology,69.21
+VNDA,Vanda Pharmaceuticals Inc.,5.7740,347.22,United States and Canada,Biotechnology,217.78
+ZURA,Zura Bio Limited,3.6050,342.04,United States and Canada,Biotechnology,
+STTK,Shattuck Labs Inc.,4.4050,337.78,United States and Canada,Biotechnology,1.00
+CATX,Perspective Therapeutics Inc.,2.9450,335.87,United States and Canada,Biotechnology,0.62
+VICO,Vicore Pharma Holding AB (publ),10.9600,328.09,Europe,Biotechnology,0.37
+ABEO,Abeona Therapeutics Inc.,5.7450,327.44,United States and Canada,Biotechnology,14.54
+UPB,Upstream Bio Inc.,6.0050,326.79,United States and Canada,Biotechnology,3.32
+CNXU,Conexeu Sciences Inc.,12.8900,325.73,United States and Canada,Biotechnology,
+SLN,Silence Therapeutics plc,6.8200,322.14,United States and Canada,Biotechnology,0.84
+AMRN,Amarin Corporation plc,15.1300,317.26,United States and Canada,Biotechnology,216.76
+IRD,Opus Genetics Inc.,3.8890,316.55,United States and Canada,Biotechnology,11.98
+FENC,Fennec Pharmaceuticals Inc.,9.0900,315.76,United States and Canada,Biotechnology,51.00
+NWBO,Northwest Biotherapeutics Inc.,0.1886,315.11,United States and Canada,Biotechnology,1.50
+RCKT,Rocket Pharmaceuticals Inc.,2.8550,311.75,United States and Canada,Biotechnology,
+LCTX,Lineage Cell Therapeutics Inc.,1.2350,307.88,United States and Canada,Biotechnology,14.78
+NVCT,Nuvectis Pharma Inc.,11.5300,305.84,United States and Canada,Biotechnology,
+ORGO,Organogenesis Holdings Inc.,2.3450,301.74,United States and Canada,Biotechnology,514.70
+DMAC,DiaMedica Therapeutics Inc.,5.5880,301.10,United States and Canada,Biotechnology,
+PALI,Palisade Bio Inc.,1.7750,297.18,United States and Canada,Biotechnology,
+EDT,Spectral Medical Inc.,1.3900,291.46,United States and Canada,Biotechnology,1.98
+SANN,Santhera Pharmaceuticals Holding AG,15.6000,291.14,Europe,Biotechnology,97.43
+LYEL,Lyell Immunopharma Inc.,12.3480,288.13,United States and Canada,Biotechnology,0.03
+BCYC,Bicycle Therapeutics plc,4.0740,284.41,United States and Canada,Biotechnology,63.50
+IKT,Inhibikase Therapeutics Inc.,1.6650,283.75,United States and Canada,Biotechnology,
+SCLP,Scancell Holdings plc,0.2025,281.77,Europe,Biotechnology,6.19
+ORY,Oryzon Genomics S.A.,3.1200,280.33,Europe,Biotechnology,12.61
+RNAC,Cartesian Therapeutics Inc.,9.1450,268.69,United States and Canada,Biotechnology,1.77
+IMRX,Immuneering Corporation,4.1470,268.30,United States and Canada,Biotechnology,
+ELDN,Eledon Pharmaceuticals Inc.,3.4550,267.08,United States and Canada,Biotechnology,
+AKBA,Akebia Therapeutics Inc.,0.9950,266.92,United States and Canada,Biotechnology,232.40
+ALERS,Eurobio Scientific Société anonyme,22.7000,264.92,Europe,Biotechnology,198.07
+SRZN,Surrozen Inc.,22.6810,263.33,United States and Canada,Biotechnology,7.49
+EGTX,Egetis Therapeutics AB (publ),5.3600,263.21,Europe,Biotechnology,6.66
+SABS,SAB Biotherapeutics Inc.,3.7310,262.20,United States and Canada,Biotechnology,
+TLSI,TriSalus Life Sciences Inc.,4.1750,256.41,United States and Canada,Biotechnology,44.88
+IVVD,Invivyd Inc.,0.8650,254.84,United States and Canada,Biotechnology,55.87
+ZNTL,Zentalis Pharmaceuticals Inc.,3.5650,253.78,United States and Canada,Biotechnology,
+MGNX,MacroGenics Inc.,3.9350,250.12,United States and Canada,Biotechnology,157.08
+ARMP,Armata Pharmaceuticals Inc.,6.8010,249.56,United States and Canada,Biotechnology,5.20
+TNG,Transgene SA,0.7610,241.60,Europe,Biotechnology,8.47
+PAIN,Vector Science and Therapeutics Corp.,2.1800,238.76,United States and Canada,Biotechnology,
+TRDA,Entrada Therapeutics Inc.,6.6050,238.00,United States and Canada,Biotechnology,5.74
+IFRX,InflaRx N.V.,1.6150,237.88,United States and Canada,Biotechnology,0.03
+FHTX,Foghorn Therapeutics Inc.,4.0400,237.20,United States and Canada,Biotechnology,28.22
+ACIU,AC Immune SA,2.3850,236.59,United States and Canada,Biotechnology,4.63
+AVXL,Anavex Life Sciences Corp.,2.5350,234.92,United States and Canada,Biotechnology,
+ALCLS,Cellectis S.A.,2.7720,233.28,Europe,Biotechnology,75.11
+ADAG,Adagene Inc.,3.5300,233.24,United States and Canada,Biotechnology,7.67
+HUMA,Humacyte Inc.,1.0450,232.01,United States and Canada,Biotechnology,2.02
+CNTN,Canton Strategic Holdings Inc.,3.2900,229.66,United States and Canada,Biotechnology,
+FATE,Fate Therapeutics Inc.,1.9050,222.05,United States and Canada,Biotechnology,6.32
+CAMP,Camp4 Therapeutics Corporation,4.2300,219.65,United States and Canada,Biotechnology,3.93
+TARA,Protara Therapeutics Inc.,3.8850,218.35,United States and Canada,Biotechnology,
+QTTB,Q32 Bio Inc.,12.8480,217.86,United States and Canada,Biotechnology,53.74
+VYGR,Voyager Therapeutics Inc.,3.6050,217.82,United States and Canada,Biotechnology,36.49
+RNA,Atrium Therapeutics Inc.,12.6940,217.14,United States and Canada,Biotechnology,36.68
+NERV,Minerva Neurosciences Inc.,4.4990,209.60,United States and Canada,Biotechnology,
+KPTI,Karyopharm Therapeutics Inc.,9.2800,209.28,United States and Canada,Biotechnology,151.12
+WHWK,Whitehawk Therapeutics Inc.,4.2050,207.95,United States and Canada,Biotechnology,0.00
+CHRS,Coherus Oncology Inc.,1.3360,206.08,United States and Canada,Biotechnology,46.88
+ARCT,Arcturus Therapeutics Holdings Inc.,7.2440,205.90,United States and Canada,Biotechnology,54.71
+CRNA,Circio Holding ASA,8.1300,202.94,Europe,Biotechnology,
+KROS,Keros Therapeutics Inc.,10.1750,201.38,United States and Canada,Biotechnology,33.18
+YDES,YD Bio Limited,2.8240,198.58,United States and Canada,Biotechnology,0.51
+ALXO,ALX Oncology Holdings Inc.,1.4550,195.78,United States and Canada,Biotechnology,
+ANIK,Anika Therapeutics Inc.,14.3770,191.29,United States and Canada,Biotechnology,116.26
+CGEN,Compugen Ltd.,2.0150,190.59,United States and Canada,Biotechnology,72.66
+UNCY,Unicycive Therapeutics Inc.,7.1150,189.97,United States and Canada,Biotechnology,
+NKTX,Nkarta Inc.,2.6340,188.45,United States and Canada,Biotechnology,
+IMUX,Immunic Inc.,13.8000,187.98,United States and Canada,Biotechnology,
+TNXP,Tonix Pharmaceuticals Holding Corp.,11.7400,187.15,United States and Canada,Biotechnology,17.56
+SANION,Saniona AB (publ),12.6000,184.93,Europe,Biotechnology,45.34
+OTLK,Outlook Therapeutics Inc.,1.5250,184.32,United States and Canada,Biotechnology,0.33
+CRNOB,Cereno Scientific AB (publ),5.4050,179.36,Europe,Biotechnology,7.06
+OKUR,OnKure Therapeutics Inc.,4.2950,173.50,United States and Canada,Biotechnology,
+IMDX,Insight Molecular Diagnostics Inc.,5.3550,172.90,United States and Canada,Biotechnology,1.95
+EQ,Equillium Inc.,2.7300,172.61,United States and Canada,Biotechnology,
+NBP,NovaBridge Biosciences,1.4850,171.74,United States and Canada,Biotechnology,
+ABOS,Acumen Pharmaceuticals Inc.,2.3540,170.02,United States and Canada,Biotechnology,
+IPH,Innate Pharma S.A.,1.5500,168.58,Europe,Biotechnology,10.58
+GALT,Galectin Therapeutics Inc.,2.5550,168.26,United States and Canada,Biotechnology,
+CRBU,Caribou Biosciences Inc.,1.6940,168.01,United States and Canada,Biotechnology,11.20
+PLX,Protalix BioTherapeutics Inc.,2.0750,167.19,United States and Canada,Biotechnology,76.38
+ALEC,Alector Inc.,1.5050,167.09,United States and Canada,Biotechnology,18.42
+SPRO,Spero Therapeutics Inc.,2.8150,162.99,United States and Canada,Biotechnology,61.19
+TRMED,Thor Medical ASA,4.2900,162.56,Europe,Biotechnology,0.08
+PRQR,ProQR Therapeutics N.V.,1.5350,161.73,United States and Canada,Biotechnology,15.76
+DTIL,Precision BioSciences Inc.,6.2550,161.39,United States and Canada,Biotechnology,45.07
+BINV,BioInvent International AB (publ),23.0500,161.28,Europe,Biotechnology,23.01
+CURAS,Curasight A/S,21.5000,161.13,Europe,Biotechnology,
+DVYSR,Devyser Diagnostics AB (publ),89.0000,158.88,Europe,Biotechnology,27.20
+KZIA,Kazia Therapeutics Limited,13.8550,158.32,United States and Canada,Biotechnology,1.27
+TNYA,Tenaya Therapeutics Inc.,0.7170,155.59,United States and Canada,Biotechnology,0.23
+KRRO,Korro Bio Inc.,10.7450,154.97,United States and Canada,Biotechnology,3.84
+ENLV,Enlivex Ltd.,0.6360,153.31,United States and Canada,Biotechnology,
+ALSEN,Sensorion SA,0.2520,150.35,Europe,Biotechnology,6.83
+CRBP,Corbus Pharmaceuticals Holdings Inc.,8.0150,148.50,United States and Canada,Biotechnology,
+HURA,TuHURA Biosciences Inc.,2.2650,144.24,United States and Canada,Biotechnology,
+MOLN,Molecular Partners AG,3.0300,142.99,Europe,Biotechnology,
+TLSA,Tiziana Life Sciences Ltd,1.1050,142.88,United States and Canada,Biotechnology,
+HAMLETB,Hamlet BioPharma AB (publ),7.1900,142.34,Europe,Biotechnology,0.01
+HPHA,Heidelberg Pharma AG,2.6100,141.54,Europe,Biotechnology,3.81
+VXRT,Vaxart Inc.,0.5540,138.74,United States and Canada,Biotechnology,255.61
+BCX,Bioceltix S.A.,91.0000,137.21,Europe,Biotechnology,
+GNLX,Genelux Corporation,3.0750,136.56,United States and Canada,Biotechnology,0.01
+CTX,Captor Therapeutics Spolka Akcyjna,78.0000,135.06,Europe,Biotechnology,0.64
+ACOG,Alpha Cognition Inc.,6.0500,131.73,United States and Canada,Biotechnology,10.83
+SPRB,Spruce Biosciences Inc.,47.7900,131.53,United States and Canada,Biotechnology,
+ADCT,ADC Therapeutics SA,1.0150,129.10,United States and Canada,Biotechnology,79.17
+AGEN,Agenus Inc.,3.0750,128.05,United States and Canada,Biotechnology,123.87
+CNTB,Connect Biopharma Holdings Limited,1.9850,124.98,United States and Canada,Biotechnology,0.23
+FARN,Faron Pharmaceuticals Oy,0.4500,122.41,Europe,Biotechnology,
+MSCL,Satellos Bioscience Inc.,8.0900,120.43,United States and Canada,Biotechnology,
+RCEL,AVITA Medical Inc.,3.9100,120.34,United States and Canada,Biotechnology,72.35
+ALPS,Alps Group Inc,0.7100,118.14,United States and Canada,Biotechnology,3.74
+MENS,Jyong Biotech Ltd.,1.5900,118.03,United States and Canada,Biotechnology,
+ENGN,enGene Therapeutics Inc.,1.7350,116.23,United States and Canada,Biotechnology,
+BVXP,Bioventix PLC,16.5500,115.94,Europe,Biotechnology,16.91
+ONCY,Oncolytics Biotech Inc.,0.9530,113.74,United States and Canada,Biotechnology,
+COYA,Coya Therapeutics Inc.,4.8020,112.64,United States and Canada,Biotechnology,7.94
+PYXS,Pyxis Oncology Inc.,1.7740,112.39,United States and Canada,Biotechnology,13.86
+ALVIO,Valerio Therapeutics Société anonyme,0.1910,110.58,Europe,Biotechnology,3.02
+ABNX,ABIONYX Pharma SA,2.6900,110.05,Europe,Biotechnology,4.77
+4BB,4basebio PLC,5.2500,109.38,Europe,Biotechnology,2.28
+XGN,Exagen Inc.,4.5250,109.32,United States and Canada,Biotechnology,68.38
+PEPG,PepGen Inc.,1.5750,108.94,United States and Canada,Biotechnology,
+OSE,OSE Immunotherapeutics SA,3.9900,108.78,Europe,Biotechnology,3.16
+AZT,ArcticZymes Technologies ASA,20.2000,108.17,Europe,Biotechnology,13.26
+ALDX,Aldeyra Therapeutics Inc.,1.7850,107.67,United States and Canada,Biotechnology,
+NYKD,Nykode Therapeutics AS,3.1350,107.34,Europe,Biotechnology,0.56
+KLRS,Kalaris Therapeutics Inc.,4.4940,106.92,United States and Canada,Biotechnology,
+CBUS,Cibus Inc.,1.3100,99.99,United States and Canada,Biotechnology,3.64
+ADOC,Adocia SA,4.4000,99.93,Europe,Biotechnology,4.52
+HSTC,HST Global Inc.,0.7000,99.00,United States and Canada,Biotechnology,
+FBIO,Fortress Biotech Inc.,2.9650,98.49,United States and Canada,Biotechnology,66.16
+BDTX,Black Diamond Therapeutics Inc.,1.7150,98.27,United States and Canada,Biotechnology,0.00
+PTHS,Pelthos Therapeutics Inc.,28.2070,98.04,United States and Canada,Biotechnology,27.70
+MVIR,Medivir AB (publ),1.6900,96.80,Europe,Biotechnology,0.95
+PMN,ProMIS Neurosciences Inc.,10.5140,94.29,United States and Canada,Biotechnology,
+BIO,BIOTON S.A.,3.9800,93.14,Europe,Biotechnology,71.67
+INO,Inovio Pharmaceuticals Inc.,1.1250,92.18,United States and Canada,Biotechnology,0.00
+RNTX,Rein Therapeutics Inc.,0.9730,90.53,United States and Canada,Biotechnology,
+ANIX,Anixa Biosciences Inc.,2.6450,89.99,United States and Canada,Biotechnology,
+CRDF,Cardiff Oncology Inc.,1.2950,88.54,United States and Canada,Biotechnology,0.53
+BIOPOR,BioPorto A/S,1.1500,88.25,Europe,Biotechnology,6.34
+ATRA,Atara Biotherapeutics Inc.,9.6940,87.34,United States and Canada,Biotechnology,23.14
+BNR,Burning Rock Biotech Limited,8.1860,86.33,United States and Canada,Biotechnology,74.58
+BMEA,Biomea Fusion Inc.,1.1850,85.67,United States and Canada,Biotechnology,
+ICCC,ImmuCell Corporation,9.4650,85.63,United States and Canada,Biotechnology,29.93
+RLYB,Rallybio Corporation,15.9050,84.13,United States and Canada,Biotechnology,0.86
+7V0,Darwin AG,6.0000,83.99,Europe,Biotechnology,63.80
+CYPH,Cypherpunk Technologies Inc.,0.7780,82.83,United States and Canada,Biotechnology,
+HBP,Helix BioPharma Corp.,1.5000,81.87,United States and Canada,Biotechnology,
+ACET,Adicet Bio Inc.,7.7750,81.65,United States and Canada,Biotechnology,
+S2B,Syn2bio S.A.,34.0000,80.89,Europe,Biotechnology,
+MAIA,MAIA Biotechnology Inc.,1.3250,80.56,United States and Canada,Biotechnology,
+LIXT,Lixte Biotechnology Holdings Inc.,6.8140,79.16,United States and Canada,Biotechnology,
+ATLE,Atlas Energy Corp.,0.1750,78.78,United States and Canada,Biotechnology,
+OKYO,OKYO Pharma Limited,1.4900,78.19,United States and Canada,Biotechnology,
+GANX,Gain Therapeutics Inc.,1.8250,77.84,United States and Canada,Biotechnology,
+CUE,Cue Biopharma Inc.,23.8900,77.77,United States and Canada,Biotechnology,32.73
+ANVS,Annovis Bio Inc.,1.8250,77.64,United States and Canada,Biotechnology,
+FRMM,Forum Markets Incorporated,5.2930,76.98,United States and Canada,Biotechnology,9.41
+XSPRAY,Xspray Pharma AB (publ),15.2000,76.64,Europe,Biotechnology,0.26
+FLUO,FluoGuide A/S,44.0000,76.49,Europe,Biotechnology,0.04
+OSTX,OS Therapies Incorporated,1.7150,76.38,United States and Canada,Biotechnology,
+LYTIX,Lytix Biopharma ASA,9.3600,75.47,Europe,Biotechnology,
+HRTX,Heron Therapeutics Inc.,0.3890,73.63,United States and Canada,Biotechnology,150.71
+CLNN,Clene Inc.,5.7140,73.02,United States and Canada,Biotechnology,0.13
+SERA,Sera Prognostics Inc.,1.8450,72.25,United States and Canada,Biotechnology,0.06
+XBIT,XBiotech Inc.,2.3600,71.95,United States and Canada,Biotechnology,
+HEMO,Hemogenyx Pharmaceuticals Plc,7.7950,71.07,Europe,Biotechnology,
+ONCO,Oncopeptides AB (publ),1.6740,70.36,Europe,Biotechnology,8.79
+SYNACT,SynAct Pharma AB,12.1000,68.47,Europe,Biotechnology,
+SGMO,Sangamo Therapeutics Inc.,0.1741,68.36,United States and Canada,Biotechnology,34.56
+BYSI,BeyondSpring Inc.,1.6200,66.61,United States and Canada,Biotechnology,
+ACRV,Acrivon Therapeutics Inc.,1.5150,64.84,United States and Canada,Biotechnology,
+MNOV,MediciNova Inc.,1.3100,64.48,United States and Canada,Biotechnology,0.60
+MAAT,MaaT Pharma SA,2.9300,64.00,Europe,Biotechnology,5.31
+EXOZ,eXoZymes Inc.,7.4100,62.83,United States and Canada,Biotechnology,
+INKT,MiNK Therapeutics Inc.,12.1150,60.36,United States and Canada,Biotechnology,
+CTOR,Citius Oncology Inc.,0.6820,60.20,United States and Canada,Biotechnology,5.61
+COIL,Coiled Therapeutics plc,0.1050,59.95,Europe,Biotechnology,
+ENTX,Entera Bio Ltd.,1.1950,58.82,United States and Canada,Biotechnology,0.00
+MCRB,Seres Therapeutics Inc.,6.0610,58.69,United States and Canada,Biotechnology,1.15
+ZLNA,Zelluna ASA,21.2000,58.40,Europe,Biotechnology,0.00
+SVE,Synthaverse S.A.,2.7950,57.72,Europe,Biotechnology,11.37
+PMVP,PMV Pharmaceuticals Inc.,1.0750,57.33,United States and Canada,Biotechnology,
+IBIO,iBio Inc.,1.5850,57.29,United States and Canada,Biotechnology,0.30
+TCRX,TScan Therapeutics Inc.,0.8740,57.12,United States and Canada,Biotechnology,9.14
+KALA,KALA BIO Inc.,3.0600,56.88,United States and Canada,Biotechnology,
+EDSA,Edesa Biotech Inc.,6.4000,56.87,United States and Canada,Biotechnology,
+CANTA,Cantargia AB (publ),2.1380,56.52,Europe,Biotechnology,33.50
+CLCS,Cell Source Inc.,0.7700,55.72,United States and Canada,Biotechnology,
+APTN,Adaptin Bio Inc.,6.1800,54.70,United States and Canada,Biotechnology,
+2INV,2invest AG,8.4400,53.77,Europe,Biotechnology,
+PDSB,PDS Biotechnology Corporation,0.9490,52.97,United States and Canada,Biotechnology,
+TIL,Instil Bio Inc.,7.7130,52.31,United States and Canada,Biotechnology,
+TXTM,ProText Mobility Inc.,0.0057,52.31,United States and Canada,Biotechnology,
+DWTX,Dogwood Therapeutics Inc.,1.5100,50.44,United States and Canada,Biotechnology,

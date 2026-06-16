@@ -1,0 +1,13 @@
+PROGRAM         MECHANISM                 INDICATION            DISCOVERY    PRECLINICAL    PHASE1/PHASE 2  PHASE 3
+Oncology
+
+TERN-701        Allosteric BCR-ABL        CML                                                        DCARDINAL
+                Inhibitor                                                                    Phase 1/2
+
+
+Discovery       Undisclosed               Undisclosed           Discovery
+
+Metabolic-available for partnering
+Tern-501      THR-β agonist for use alone or in combination with other metabolic therapies for MASH/NASH/obesity (Phase 2 ready)
+
+Tern-801      GIPR antagonist development candidate for obesity

@@ -1,0 +1,35 @@
+Program      Target      Modality    Therapeutic area         Discovery  IND-Enabling  Phase 1A  Phase 1B/2    Pivotal
+
+Bexobrutideg           BTK        Degrader      B-cell malignancies                                         [X]         [X]         [X]
+ (NX-5948)
+
+Zelebrudomide         BTK-IKZF     Degrader      B-cell malignancies                                         [X]         [X]
+ (NX-2127)
+
+NX-1607             CBL-B     Inhibitor of      Immuno-oncology                                             [X]         [X]
+                                 degradation
+
+BRAF degrader        Pan-mutant    Degrader          Solid tumors                [X]         [X]
+                        BRAF
+
+Multiple         Undisclosed    Degrader          Undisclosed                 [X]
+
+Multiple         Undisclosed    Degrader          Undisclosed                 [X]                                                               GILEAD
+
+Multiple         Undisclosed      DAC             Undisclosed                 [X]                                                               Pfizer
+
+
+Program             Target      Modality        Therapeutic area             Discovery  IND-Enabling  Phase 1A    Phase 1B    Phase 2/3
+
+Bexobrutideg           BTK        Degrader        Autoimmune cytopenia in                                      [X]         [X]
+ (NX-5948)                                          CLL patients
+
+NX-0479/            IRAK4       Degrader        Rheumatoid arthritis and                                     [X]         [X]                  GILEAD
+ GS-6791                                            other inflammatory diseases
+
+NX-3911             STAT6       Degrader        Type 2 inflammatory               [X]         [X]                                 sanofi
+                                                       diseases
+
+Undisclosed        Undisclosed    Degrader        Inflammation / autoimmune         [X]                                         sanofi
+
+Multiple         Undisclosed      DAC             Inflammation / autoimmune         [X]
